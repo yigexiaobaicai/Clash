@@ -2,6 +2,9 @@
 常用的clash模板配置
 
 
+https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://raw.githubusercontent.com/ldsoy/Clash/refs/heads/main/My.ini
+
+
 1.Mini模板(无自动测速)
 
 https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://raw.githubusercontent.com/ldsoy/Clash/main/shenseven/Mini.ini
